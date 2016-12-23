@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-group='com.github.skeyboy'
+
 
 android {
     compileSdkVersion 23
@@ -27,7 +27,5 @@ dependencies {
     })
 
     testCompile 'junit:junit:4.12'
-
-
 
 }
